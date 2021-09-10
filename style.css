@@ -1,0 +1,20 @@
+body{
+    background-color:aquamarine;
+}
+
+.list_of_objects{
+    color:fuchsia;
+    font-size:19px;
+}
+
+.heading{
+    width:500px;
+}
+
+p{
+    color:fuchsia;
+}
+
+#p_2{
+    color:gray;
+}
